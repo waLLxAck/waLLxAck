@@ -6,9 +6,11 @@ I am Svilen Petrov, a Java Developer Trainee Consultant at Sparta Global with 6 
 
 You can see what I am currently up to on [svilenpetrov.com](http://svilenpetrov.com).
 
+<!--
 ### 👨‍💻 Technology Experience
 
 
+-->
 
 ### 📈 My GitHub Stats
 
