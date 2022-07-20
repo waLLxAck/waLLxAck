@@ -2,7 +2,7 @@
 
 Hey 👋🏻,
 
-I am Svilen Petrov, a Java Developer Trainee Consultant at Sparta Global with 6 months of industry experience.
+I am Svilen Petrov, a Java Developer / Consultant at Sparta Global with 2 years of industry experience.
 
 You can see what I am currently up to on [svilenpetrov.com](http://svilenpetrov.com).
 
