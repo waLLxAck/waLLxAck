@@ -2,17 +2,34 @@
 
 ![flashy-br](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-Hey 👋🏻,
+```python
+# -*- coding: utf-8 -*-
 
-I am Svilen Petrov, a Java Developer / Consultant at Sparta Global with 1024 years of industry experience.
 
-You can see what I am currently up to on [svilenpetrov.com](http://svilenpetrov.com).
+class Software Developer:
+    def __init__(self):
+        self.name = "Svilen Petrov"
+        self.website = "http://svilenpetrov.com"
+        self.role = "Software Developer"
+        self.company = "Unit4"
+        self.current_project = "Frontline Evolution"
+        self.language_spoken = ["English", "Bulgarian"]
+
+    def say_hi(self):
+        print("Happy to see you, hope you find some of my work interesting.")
+
+
+me = Software Developer()
+me.say_hi()
+
+
+```
 
 ![flashy-br](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-### 👨‍💻 Technologies
+### Current Technologies
 
-#### Current
+<br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="30"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".NET" width="30"/>
@@ -26,8 +43,6 @@ You can see what I am currently up to on [svilenpetrov.com](http://svilenpetrov.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="30"/>
 
 ![flashy-br](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-#### Previously used
 
 ##### Programming Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="30"/></img>
@@ -94,36 +109,3 @@ You can see what I am currently up to on [svilenpetrov.com](http://svilenpetrov.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="30"/>
           
 ![flashy-br](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-```python
-# -*- coding: utf-8 -*-
-
-
-class Software Developer:
-    def __init__(self):
-        self.name = "Svilen Petrov"
-        self.role = "Software Developer"
-        self.company = "Unit4"
-        self.current_project = "Frontline Evolution"
-        self.language_spoken = ["English", "Bulgarian"]
-
-    def say_hi(self):
-        print("Happy to see you, hope you find some of my work interesting.")
-
-
-me = Software Developer()
-me.say_hi()
-
-
-```
-
-![flashy-br](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-### 📈 My GitHub Stats
-
-<a href="https://github.com/waLLxAck/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waLLxAck&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/waLLxAck/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waLLxAck&count_private=true" />
-</a>
