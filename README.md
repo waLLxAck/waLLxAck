@@ -1,5 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/15944458/100350354-a9ed9980-2fe1-11eb-8c2d-4981a127c258.jpg)
-
 ![flashy-br](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ```python
