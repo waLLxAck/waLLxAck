@@ -3,7 +3,7 @@
 # -*- coding: utf-8 -*-
 
 
-class Software Developer:
+class SoftwareDeveloper:
     def __init__(self):
         self.name = "Svilen Petrov"
         self.website = "http://svilenpetrov.com"
@@ -16,7 +16,7 @@ class Software Developer:
         print("Happy to see you, hope you find some of my work interesting.")
 
 
-me = Software Developer()
+me = SoftwareDeveloper()
 me.say_hi()
 
 
